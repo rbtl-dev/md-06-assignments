@@ -1,5 +1,5 @@
 ---
-title: "Data Visualisation"
+title: "Data formats"
 author: ""
 format:
   html:
@@ -32,7 +32,7 @@ library(tidyverse)
 
 ```
 
-## Task 3: Vector coersion
+## Task 3: Vector coercion
 
 1.  Use `waste_data` and `count()` to create a frequency table for the `income_cat` variable.
 
@@ -108,7 +108,7 @@ waste_data_long <- read_rds("data/msw-generation-and-composition-by-income-long.
 
 ```
 
-# Part 3: Data visualization (stretch goal)
+# Part 3: Data visualization
 
 ## Task 1: Import data
 
@@ -152,7 +152,7 @@ waste_data_long_mean <- read_rds("data/msw-generation-and-composition-by-income-
 
 2.  **Stage** your changes by checking appropriate box next to all files (if you select one file with your mouse, you can then highlight them all with Ctrl + A on your keyboard and check all boxes)
 
-3.  Write a meaningful commit message (e.g. "Completed homework assignment 07.) in the **Commit message** box
+3.  Write a meaningful commit message (e.g. "Completed homework assignment 06") in the **Commit message** box
 
 4.  Click **Commit**. Note that every commit needs to have a commit message associated with it.
 
@@ -164,12 +164,12 @@ Once you have ensured that the Quarto document renders without errors and you ha
 
 2.  Navigate to the GitHub organisation for the course.
 
-3.  Find the repository md-07-assignments that ends with your GitHub username.
+3.  Find the repository md-06-assignments that ends with your GitHub username.
 
 4.  Click on the "Issues" tab.
 
 5.  Click on the green "New issue" button.
 
-6.  In the "Title" field write: "Completed module 7 assignments".
+6.  In the "Title" field write: "Completed module 6 assignments".
 
-7.  In the "Leave a comment" field, tag the course instructors @larnsce @mianzg @sskorik01 and ask some questions, if you like.
+7.  In the "Leave a comment" field, tag the course instructors @larnsce and ask some questions, if you like.
